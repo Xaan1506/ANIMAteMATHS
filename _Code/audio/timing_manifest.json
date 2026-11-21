@@ -1,0 +1,44 @@
+{
+  "scene1": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene1.mp3",
+    "duration": 25.15,
+    "size": 150912,
+    "engine": "edge-tts",
+    "word_count": 47
+  },
+  "scene2": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene2.mp3",
+    "duration": 49.44,
+    "size": 296640,
+    "engine": "edge-tts",
+    "word_count": 126
+  },
+  "scene3": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene3.mp3",
+    "duration": 33.55,
+    "size": 201312,
+    "engine": "edge-tts",
+    "word_count": 74
+  },
+  "scene4": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene4.mp3",
+    "duration": 81.07,
+    "size": 486432,
+    "engine": "edge-tts",
+    "word_count": 157
+  },
+  "scene5": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene5.mp3",
+    "duration": 21.24,
+    "size": 127440,
+    "engine": "edge-tts",
+    "word_count": 70
+  },
+  "scene6": {
+    "file": "/Users/xaan/Desktop/ANIMATION/_Code/audio/scene6.mp3",
+    "duration": 26.76,
+    "size": 160560,
+    "engine": "edge-tts",
+    "word_count": 49
+  }
+}
